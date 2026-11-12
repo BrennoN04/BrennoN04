@@ -37,15 +37,8 @@ Desenvolvo aplicações web com **Java, Spring Boot e Node.js** no back-end e **
 
 ### 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img
-    alt="Estatísticas do GitHub de BrennoN04"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=BrennoN04&amp;show_icons=true&amp;theme=tokyonight&amp;locale=pt-br"
-  />
-  <img
-    alt="Linguagens mais usadas nos repositórios de BrennoN04"
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoN04&amp;theme=tokyonight&amp;layout=compact&amp;custom_title=Linguagens%20mais%20usadas&amp;langs_count=6"
-  />
-</p>
+### 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrennoN04&show_icons=true&theme=tokyonight&locale=pt-br)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoN04&layout=compact&theme=tokyonight&locale=pt-br)
