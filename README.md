@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou Brenno Nunes da Silva Barros 👋
 
-<!--
-**BrennoN04/BrennoN04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor full stack e estudante do 6º período de Sistemas de Informação na Universidade Federal do Acre (UFAC). Busco minha primeira oportunidade profissional em desenvolvimento de software.
 
-Here are some ideas to get you started:
+Trabalho com Java e Spring Boot no back-end e com Angular e JavaScript no front-end. Também utilizo Docker e estou aprofundando meus conhecimentos em DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+| Área | Tecnologias |
+| --- | --- |
+| Back-end | Java, Spring Boot, Node.js |
+| Front-end | Angular, JavaScript, HTML, CSS, SCSS, Bootstrap |
+| Containers | Docker |
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/brenno-nunes/)
+- [E-mail](mailto:brennons.06@gmail.com)
