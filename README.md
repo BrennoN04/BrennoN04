@@ -36,9 +36,20 @@ Desenvolvo aplicações web com **Java, Spring Boot e Node.js** no back-end e **
 </p>
 
 ### 📊 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-### 📊 Estatísticas do GitHub
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=BrennoN04&show_icons=true&theme=tokyonight&locale=pt-br)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennoN04&layout=compact&theme=tokyonight&locale=pt-br)
+</p>
